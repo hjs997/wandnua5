@@ -1,1 +1,1 @@
-FROM ghcr.io/hjs997/sevallahappy:latest
+FROM ghcr.io/hjs997/newsevalla:latest
