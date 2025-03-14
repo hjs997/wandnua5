@@ -1,1 +1,1 @@
-FROM ghcr.io/hjs997/newsevalla:latest
+FROM ghcr.io/hjs997/niandbybay:latest
