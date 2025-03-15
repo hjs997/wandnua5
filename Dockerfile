@@ -1,1 +1,1 @@
-FROM ghcr.io/hjs997/niandbybay:latest
+FROM ghcr.io/hjs997/amaidjn:latest
